@@ -1,16 +1,18 @@
-### Hi there 👋
+# Merhaba, Ben [Hüseyin]!
 
-<!--
-**hsynnozknn321/hsynnozknn321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Jnr. Web Developer | 🚀 Elektrik Elektronik Mühendisi
 
-Here are some ideas to get you started:
+### 🌐 Sosyal Medya ve İletişim
+- [LinkedIn](https://www.linkedin.com/in/kullaniciadi)
+- [Twitter](https://twitter.com/kullaniciadi)
+- [Kişisel Web Site](https://www.kisiselwebsite.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Teknolojiler
+- **Diller**: Python, HTML , CSS ,JavaScript
+- **Çerçeveler**: Pandas , Numpy
+
+
+### 📫 Nasıl İşbirliği Yapabiliriz
+Benimle [email](mailto:hsynozkn12@gmail.com) üzerinden iletişime geçebilirsiniz.
+
+
