@@ -1,6 +1,6 @@
 # Merhaba, Ben [Hüseyin]!
 
-## 👨‍💻 Jnr. Web Developer | 🚀 Elektronik Haberleşme Mühendisi
+## 👨‍💻 Jnr. Web Developer 
 
 ### 🌐 Sosyal Medya ve İletişim
 - [LinkedIn](https://www.linkedin.com/in/kullaniciadi)
